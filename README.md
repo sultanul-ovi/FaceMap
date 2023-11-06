@@ -11,6 +11,8 @@ FaceMap: ML-based Face Recognition Web Application
 ## Project Overview
 FaceMap is an advanced face recognition web application that combines the latest techniques in machine learning, image processing, and MLOps to provide accurate and automated face detection and recognition capabilities. Built with Flask and deployed on Heroku, it showcases the practical application of AI in image and video analysis.
 
+![project_output](https://user-images.githubusercontent.com/75901421/184621727-ba0858f1-2151-43af-bc48-3be30dd45f60.gif)
+
 ## Features and Capabilities
 
 - **Automated Face Detection**: Utilizes OpenCV to detect faces in images and videos effortlessly.
