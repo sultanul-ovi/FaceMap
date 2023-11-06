@@ -32,6 +32,38 @@ FaceMap is an advanced face recognition web application that combines the latest
 - **Heroku**: Cloud deployment.
 - **Bootstrap**: Frontend design.
 
+## Diagrams
+Overview in Details
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/detaled overview.png"  width="850" height="420" />
+</h1>
+
+SVM Model
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Application_Architecure.png"  width="420" height="420" />
+</h1>
+
+Test Output 01
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Overview_Use_Cases.png"  width="850" height="420" />
+</h1>
+
+Test Output 02
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Database%2BTable%2BDesign.png"  width="600" height="420" />
+</h1>
+
+Test Output 03
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/DAO%2BClass%2BDiagram.png"  width="850" height="420" />
+</h1>
+
+Classification Report
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Domain%2BModel%2BClass%2BDiagram.png"  width="420" height="420" />
+</h1>
+
+
 ## Getting Started
 
 To set up and run FaceMap:
