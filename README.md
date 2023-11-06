@@ -32,7 +32,7 @@ FaceMap is an advanced face recognition web application that combines the latest
 - **Heroku**: Cloud deployment.
 - **Bootstrap**: Frontend design.
 
-## Diagrams
+## Screenshots
 Overview in Details
 <h1 align="center">
    <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/detaled overview.png"  width="600" height="200" />
