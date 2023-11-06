@@ -40,7 +40,7 @@ Overview in Details
 
 SVM Model
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/svm.png"  width="420" height="150" />
+   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/svm.png"  width="420" height="180" />
 </h1>
 
 Test Output 01
@@ -55,12 +55,12 @@ Test Output 02
 
 Test Output 03
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/out6.png"  width="420" height="150" />
+   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/out6.png"  width="420" height="180" />
 </h1>
 
 Classification Report
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/c2.png"  width="420" height="150" />
+   <img src="https://github.com/sultanul-ovi/FaceMap/blob/main/images/c2.png"  width="420" height="180" />
 </h1>
 
 
