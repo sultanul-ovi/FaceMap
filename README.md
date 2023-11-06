@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/FaceMap/blob/master/images/banner.png"  width="500" height="500" />
+   <img src="https://github.com/sultanul-ovi/FaceMap/blob/master/images/overview.png"  width="800" height="300" />
 </h1>
 
 <h4 align="center">
