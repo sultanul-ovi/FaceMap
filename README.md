@@ -42,6 +42,9 @@ To set up and run FaceMap:
 4. Start the Flask server using `flask run`.
 5. Access the web interface through your browser to upload images or videos for face recognition.
 
+## Documentation and Resources
+- **Project Report**: For a detailed analysis of the project development and performance metrics, check out the [Project Report PDF](https://github.com/sultanul-ovi/FaceMap/blob/main/ML_project_report.pdf).
+- **Dataset**: The dataset used for training the machine learning model is hosted on Google Drive and can be accessed [here](https://link-to-your-dataset.com).
 
 ### Disclaimer
 
