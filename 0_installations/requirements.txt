@@ -1,9 +1,0 @@
-numpy
-pandas
-scipy
-matplotlib
-pillow
-opencv-python-headless
-scikit-learn
-flask
-unicorn
