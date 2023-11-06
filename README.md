@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-ML-based Face Recognition Web Application
+FaceMap: ML-based Face Recognition Web Application
 </h4>
 
 
